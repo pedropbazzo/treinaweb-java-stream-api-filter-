@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/pedropbazzo/treinaweb-java-stream-api-filter-/master/console.png)
+
 # TreinaWeb: curso "Java - Stream API"
 
 Repositório com o código produzido durante o curso "Java - Stream API".
